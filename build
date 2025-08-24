@@ -1,0 +1,2 @@
+gcc -c -o obj/update.o src/update.c
+gcc obj/string.o obj/update.o -o upd
